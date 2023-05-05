@@ -3,5 +3,8 @@ public class HolaMundo {
 
         // Primer commit
         System.out.println("¡Hola mundo!");
+
+        // Segundo commit
+        System.out.println("Bienvenida al curso!!");
     }
 }
